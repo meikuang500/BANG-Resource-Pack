@@ -1,0 +1,5 @@
+{
+"death.attack.fireworks.item": "%2$s allowed %1$s to see §c§othe real use§r of fireworks",
+"death.attack.fireworks.player": "%1$s was killed in a §c§oBANG BATTEL§r with %2$s",
+"death.attack.fireworks": "%1$s was killed by %2$s playing §c§oEXPOSE 'Burn out!!!'"
+}
