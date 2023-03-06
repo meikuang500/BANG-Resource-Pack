@@ -1,8 +1,8 @@
 {
-    "item.minecraft.music_disc_13": "時光機[2023haru限定]",
-    "item.minecraft.music_disc_cat": "奔向藍天！[2023haru限定]",
-    "item.minecraft.music_disc_13.desc": "40mP, 164, 初音ミク - タイムマシン",
-    "item.minecraft.music_disc_cat.desc": "まらしぃ, 初音ミク - 青く駆けろ！",
+    "item.minecraft.music_disc_13": "§6唱片 (2023haru限定)",
+    "item.minecraft.music_disc_cat": "§6唱片 (2023haru限定)",
+    "item.minecraft.music_disc_13.desc": "40mP, 164, Leo/need, 初音ミク - タイムマシン (時光機)",
+    "item.minecraft.music_disc_cat.desc": "まらしぃ, Leo/need, 初音ミク - 青く駆けろ！ (奔向藍天！)",
     "block.minecraft.birch_planks": "櫻花木材",
     "block.minecraft.birch_sapling": "櫻花木樹苗",
     "block.minecraft.birch_door": "櫻花木門",

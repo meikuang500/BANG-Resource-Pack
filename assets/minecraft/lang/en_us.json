@@ -1,8 +1,8 @@
 {
-    "item.minecraft.music_disc_13": "Time Machine[2023haru limited]",
-    "item.minecraft.music_disc_cat": "Dashing to the Sky[2023haru limited]",
-    "item.minecraft.music_disc_13.desc": "40mP, 164, 初音ミク - タイムマシン",
-    "item.minecraft.music_disc_cat.desc": "まらしぃ, 初音ミク - 青く駆けろ！",
+    "item.minecraft.music_disc_13": "§6Music Disc (2023haru Limited)",
+    "item.minecraft.music_disc_cat": "§6Music Disc (2023haru Limited)",
+    "item.minecraft.music_disc_13.desc": "40mP, 164, Leo/need, 初音ミク - タイムマシン (Time Machine)",
+    "item.minecraft.music_disc_cat.desc": "まらしぃ, Leo/need, 初音ミク - 青く駆けろ！ (Dashing to the Sky! )",
     "block.minecraft.birch_planks": "Cherry Planks",
     "block.minecraft.birch_sapling": "Cherry Sapling",
     "block.minecraft.birch_door": "Cherry Door",
